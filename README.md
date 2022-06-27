@@ -1,6 +1,6 @@
 # Victory Nicholas
 
-Full stack developer with rich experience on Linux, web frontend and backend, Ethereum, Binance, Algorand and Harmony.
+Full stack developer with rich experience on Linux, MERN stack, smart contract on Ethereum, Binance, Algorand and Harmony.
 
 - C/C++(including GCC and MSC), Bash shell scripting, Regular Expression, make
 - DEX, DeFi and NFT minting&marketplace
